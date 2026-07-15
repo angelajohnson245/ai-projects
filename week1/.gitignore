@@ -1,0 +1,23 @@
+# Local notes
+COMMANDS VENV and Script.txt
+
+# Virtual environments
+**/.venv/
+**/.VENV/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+wheels/
+
+# Environment files
+.env
+.env.*
